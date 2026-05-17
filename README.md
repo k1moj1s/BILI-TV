@@ -4,7 +4,7 @@
 
 ## Release
 
-* Beta1 下载：[BILI-TV-20260515-beta1.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260515-beta1)
+* Beta2 下载：[BILI-TV-20260517-beta2.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260517-beta2)
 
 项目主要用于：
 
@@ -59,8 +59,7 @@
 * Android API 19+
 * Java
 * RecyclerView
-* ExoPlayer
-* IjkPlayer
+* VLC for Android
 * OkHttp
 
 ---
@@ -116,6 +115,6 @@
 
 ---
 
-# License
+# MIT License
 
 仅供学习交流使用。
