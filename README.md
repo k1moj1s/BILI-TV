@@ -1,6 +1,6 @@
 # BILI-TV
 
-一个面向 Android 4.4+ 老电视盒子的 Bilibili TV 客户端学习项目。
+一个面向 Android 4.4+ (API19+) 老电视盒子的 Bilibili TV 客户端学习项目。
 
 ## Release
 
@@ -11,14 +11,14 @@
 * Android TV 开发学习
 * 老设备兼容性研究
 * TV 遥控器交互研究
-* Android4.4 适配实践
+* Android4.4 (API19) 适配实践
 * RecyclerView 与低内存优化实验
 
 ---
 
 # 项目说明
 
-由于目前很多 TV 客户端已经不再兼容 Android4.4 及部分老旧电视盒子，因此尝试基于较低版本 Android 环境进行一些兼容性开发与研究。
+由于目前很多 TV 客户端已经不再兼容 Android4.4 (API19) 及部分老旧电视盒子，因此尝试基于较低版本 Android 环境进行一些兼容性开发与研究。
 
 本项目仅作为：
 
