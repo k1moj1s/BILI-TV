@@ -4,7 +4,7 @@
 
 ## Release
 
-* Beta3 下载：[BILI-TV-20260520-beta4.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260520-beta4)
+* Beta4 下载：[BILI-TV-20260520-beta4.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260520-beta4)
 
 项目主要用于：
 
