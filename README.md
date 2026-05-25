@@ -4,11 +4,11 @@
 
 ## Release
 
-* V1.1 下载（原始）：[BILI-TV-20260524-v1.1.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260524-v1.1)
-* V1.1 下载（镜像地址1）：[BILI-TV-20260524-v1.1.apk](https://gh.idayer.com/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260524-v1.1/BILI-TV-20260524-v1.1.apk)
-* V1.1 下载（镜像地址2）：[BILI-TV-20260524-v1.1.apk](https://ghfile.geekertao.top/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260524-v1.1/BILI-TV-20260524-v1.1.apk)
-* V1.1 下载（镜像地址3）：[BILI-TV-20260524-v1.1.apk](https://gh.xxooo.cf/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260524-v1.1/BILI-TV-20260524-v1.31.apk)
-* V1.1 下载（镜像地址4）：[BILI-TV-20260524-v1.1.apk](https://xget.xi-xu.me/gh/k1moj1s/BILI/releases/download/BILI-TV-20260524-v1.1/BILI-TV-20260524-v1.1.apk)
+* V1.2 下载（原始）：[BILI-TV-20260525-v1.2.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260525-v1.2)
+* V1.2 下载（镜像地址1）：[BILI-TV-20260525-v1.2.apk](https://gh.idayer.com/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260525-v1.2/BILI-TV-20260525-v1.2.apk)
+* V1.2 下载（镜像地址2）：[BILI-TV-20260525-v1.2.apk](https://ghfile.geekertao.top/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260525-v1.2/BILI-TV-20260525-v1.2.apk)
+* V1.2 下载（镜像地址3）：[BILI-TV-20260525-v1.2.apk](https://gh.xxooo.cf/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260525-v1.2/BILI-TV-20260525-v1.2.apk)
+* V1.2 下载（镜像地址4）：[BILI-TV-20260525-v1.2.apk](https://xget.xi-xu.me/gh/k1moj1s/BILI/releases/download/BILI-TV-20260525-v1.2/BILI-TV-20260525-v1.2.apk)
 
 项目主要用于：
 
