@@ -29,7 +29,7 @@
 * V2.0 下载（镜像地址8）：[BILI-TV-20260605-V2.0.apk](https://gh.h233.eu.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
 * V2.0 下载（镜像地址9）：[BILI-TV-20260605-V2.0.apk](https://edgeone.gh-proxy.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
 
-* BILI-TV-20260605-V2.0.apk    sha256:ca1ac4e4070f46dfb7d3dfbc7c3ce25723b4273dbec35d54ea67b9406489281e
+* SHA256:ca1ac4e4070f46dfb7d3dfbc7c3ce25723b4273dbec35d54ea67b9406489281e
 
 ---
 
