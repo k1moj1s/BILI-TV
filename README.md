@@ -1,82 +1,161 @@
 # BILI-TV
 
-一个面向 Android 4.4+ (API19+) 老电视盒子的 Bilibili TV 客户端学习项目。
+一个面向 Android 4.4+（API 19+）老电视盒子的 Bilibili TV 客户端学习项目。
 
-## Release
-
-* V1.3 下载（原始）：[BILI-TV-20260527-V1.3.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260527-V1.3)
-* V1.3 下载（镜像地址1）：[BILI-TV-20260527-V1.3.apk](https://gh.idayer.com/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260527-V1.3/BILI-TV-20260527-V1.3.apk)
-* V1.3 下载（镜像地址2）：[BILI-TV-20260527-V1.3.apk](https://ghfile.geekertao.top/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260527-V1.3/BILI-TV-20260527-V1.3.apk)
-* V1.3 下载（镜像地址3）：[BILI-TV-20260527-V1.3.apk](https://gh.xxooo.cf/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260527-V1.3/BILI-TV-20260527-V1.3.apk)
-* V1.3 下载（镜像地址4）：[BILI-TV-20260527-V1.3.apk](https://xget.xi-xu.me/gh/k1moj1s/BILI/releases/download/BILI-TV-20260527-V1.3/BILI-TV-20260527-V1.3.apk)
-
-项目主要用于：
+项目主要围绕以下方向展开：
 
 * Android TV 开发学习
 * 老设备兼容性研究
-* TV 遥控器交互研究
-* Android4.4 (API19) 适配实践
+* TV 遥控器焦点交互研究
+* Android 4.4（API 19）适配实践
 * RecyclerView 与低内存优化实验
+* 播放器兼容性与视频流可用性验证
 
 ---
 
-# 项目说明
+## Release
 
-由于目前很多 TV 客户端已经不再兼容 Android4.4 (API19) 及部分老旧电视盒子，因此尝试基于较低版本 Android 环境进行一些兼容性开发与研究。
+### 当前版本
 
-本项目仅作为：
+* 发布页：[`BILI-TV-20260605-V2.0`](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260605-V2.0)
+* V2.0 下载（原始）：[BILI-TV-20260605-V2.0.apk](https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址1）：[BILI-TV-20260605-V2.0.apk](https://gh.idayer.com/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址2）：[BILI-TV-20260605-V2.0.apk](https://ghfile.geekertao.top/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址3）：[BILI-TV-20260605-V2.0.apk](https://gh.xxooo.cf/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址4）：[BILI-TV-20260605-V2.0.apk](https://xget.xi-xu.me/gh/k1moj1s/BILI/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址5）：[BILI-TV-20260605-V2.0.apk](https://gh.zwy.one/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址6）：[BILI-TV-20260605-V2.0.apk](https://https://cors.isteed.cc/github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址7）：[BILI-TV-20260605-V2.0.apk](https://ghp.keleyaa.com/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址8）：[BILI-TV-20260605-V2.0.apk](https://gh.h233.eu.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
+* V2.0 下载（镜像地址9）：[BILI-TV-20260605-V2.0.apk](https://edgeone.gh-proxy.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260605-V2.0/BILI-TV-20260605-V2.0.apk)
 
-* 技术学习
-* UI研究
-* Android TV 适配实验
-* 播放器兼容性测试
-
-使用。
-
-项目仍处于持续学习与实验阶段，代码可能存在：
-
-* Bug
-* 不稳定情况
-* 接口变化导致的问题
-* 兼容性问题
-
-请勿作为正式产品使用。
+* BILI-TV-20260605-V2.0.apk    sha256:ca1ac4e4070f46dfb7d3dfbc7c3ce25723b4273dbec35d54ea67b9406489281e
 
 ---
 
-# 当前包含内容
+## 项目说明
 
-* TV 风格首页
-* 视频列表
-* 视频播放
-* 搜索
-* 作者信息弹窗
-* 弹幕基础支持
-* 遥控器焦点操作
-* Android4.4 基础兼容
-* 部分低内存优化实验
+由于目前很多BiliBili TV 客户端已经不再兼容 Android 4.4（API 19）及部分老旧电视盒子，因此本项目尝试在较低版本 Android 环境下进行兼容性开发、交互适配与播放能力研究。
+
+本项目定位为学习与实验用途，主要关注：
+
+* 老旧电视盒子的基础可用性
+* Android TV 焦点与遥控器交互逻辑
+* 视频播放链路与回退策略
+* 低版本 Android 下的播放器兼容
+* 较低内存设备上的列表、图片与页面响应优化
+
+项目仍处于持续迭代阶段，代码和接口行为可能随时变化，不承诺长期稳定可用。
 
 ---
 
-# 开发环境
+## 当前包含内容
+
+* TV 侧边导航：首页、搜索、分区、动态、直播、我的、设置
+* 首页推荐流与多标签内容浏览（推荐、综合热门、每周必看、入站必刷、全站音乐榜）
+* 搜索、热搜、搜索联想与搜索历史
+* 分区内容浏览，支持普通视频与部分 PGC 内容跳转
+* 动态页浏览，支持关注 UP 视频内容切换
+* 直播推荐、直播分区、关注直播间浏览
+* 扫码登录
+* 我的页面：历史记录、收藏夹、稍后再看、退出登录
+* 视频播放：画质切换、编码选择、音轨/音质选择、倍速、选集、直播线路切换
+* 视频弹幕与直播弹幕基础支持
+* 遥控器焦点操作与菜单交互优化
+* Android 4.4 基础兼容
+* 部分低内存优化、缓存管理与视频流多链路回退
+
+---
+
+## 项目特性
+
+### 1. 面向老设备
+
+项目以 Android 4.4+（API 19+）设备为主要适配目标，重点关注老旧电视盒子、低内存环境和遥控器输入场景。
+
+### 2. TV 交互优先
+
+整体交互围绕 D-Pad 遥控器设计，重点处理焦点移动、菜单操作、播放器控制和页面切换体验。
+
+### 3. 播放链路实验
+
+项目针对视频播放地址获取、回退策略、登录态与公开链路兼容、播放失败重试等场景进行了较多实验性实现，用于研究不同设备与环境下的可用性问题。
+
+### 4. 轻量化方向
+
+项目持续进行代码清理、依赖精简和播放器模块调整，以减少安装包体积并降低老设备运行负担。
+
+---
+
+## 兼容性说明
+
+理论支持环境：
+
+* Android 4.4 及以上
+* API 19+
+* 支持 D-Pad 遥控器输入的电视或电视盒子
+
+但在不同 ROM、芯片、系统裁剪环境下，可能出现：
+
+* 登录异常
+* 播放异常
+* 焦点错乱
+* 部分页面显示问题
+* 某些视频无法获取播放地址
+
+这类问题在老设备和非标准系统环境中都属于正常风险范围。
+
+---
+
+## 开发环境
 
 * Android API 19+
 * Java
 * RecyclerView
 * VLC for Android
 * OkHttp
+* Protobuf Lite
+* Conscrypt
 
 ---
 
-# 声明
+## 适用场景
+
+本项目仅适合以下用途：
+
+* 技术学习
+* Android TV UI 研究
+* 老设备兼容性实验
+* 播放器行为测试
+* 遥控器交互研究
+* 视频流获取策略研究
+
+不建议将本项目视为正式产品或稳定商用客户端。
+
+---
+
+## 使用提醒
+
+由于第三方接口、登录状态、风控策略、版权策略与网络环境都可能随时变化，项目在不同时间与不同设备上的表现可能并不一致。
+
+项目可能出现：
+
+* 无法使用
+* 接口失效
+* 登录异常
+* 播放异常
+* 被限制访问
+* 高画质获取失败
+
+请自行评估使用风险。
+
+---
+
+## 声明
 
 本项目仅供学习与技术研究使用。
 
-项目本身不提供任何视频资源、账号资源或服务器资源。
-
-所有内容均来自用户自行访问的公开网络接口。
-
-请在下载后 24 小时内删除。
+项目本身不提供任何视频资源、账号资源或服务器资源，所有内容均来自用户自行访问的公开网络接口。
 
 请勿用于：
 
@@ -97,27 +176,26 @@
 
 避免对项目与相关平台造成不必要影响。
 
----
-
-# 风险说明
-
-由于第三方接口、风控策略、版权策略可能随时变化：
-
-项目可能：
-
-* 无法使用
-* 接口失效
-* 登录异常
-* 播放异常
-* 被限制访问
-
-请自行承担使用风险。
-
-开发者不对任何使用行为负责。
-
 如果相关权利方认为项目存在问题，请联系处理。
 
 ---
+
+## 风险说明
+
+由于第三方接口、风控机制、版权策略与平台行为随时可能调整，项目不保证持续可用，也不保证所有功能始终稳定。
+
+开发者不对任何使用行为及其后果负责。
+
+请在了解项目定位和风险前提下自行使用。
+
+---
+
+## License
+
+项目代码采用 MIT License 发布。
+
+本仓库内容仍以学习交流、技术研究和适配实验为主要目的，请结合上文声明与风险说明自行判断使用场景。
+
 
 # MIT License
 
