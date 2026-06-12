@@ -20,7 +20,7 @@
 * V3.3 下载（镜像地址8）：[BILI-TV-20260612-V3.3.apk](https://gh.h233.eu.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260612-V3.3/BILI-TV-20260612-V3.3.apk)
 * V3.3 下载（镜像地址9）：[BILI-TV-20260612-V3.3.apk](https://edgeone.gh-proxy.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260612-V3.3/BILI-TV-20260612-V3.3.apk)
 
-* sha256:0257fc7975f8efba8cd9c3b3b6df7eaa6163280118db38b8d529a77f587b4c3e
+* sha256:5ef934156ae692f87a3c4df33c73ebbc7048e5283c421c86f0551f42772604c9
 
 ---
 
