@@ -8,19 +8,19 @@
 
 ### 当前版本
 
-* 发布页：[`BILI-TV-20260614-V4.0`](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260614-V4.0)
-* V4.0 下载（原始）：[BILI-TV-20260614-V4.0.apk](https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址1）：[BILI-TV-20260614-V4.0.apk](https://gh.idayer.com/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址2）：[BILI-TV-20260614-V4.0.apk](https://ghfile.geekertao.top/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址3）：[BILI-TV-20260614-V4.0.apk](https://gh.xxooo.cf/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址4）：[BILI-TV-20260614-V4.0.apk](https://xget.xi-xu.me/gh/k1moj1s/BILI/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址5）：[BILI-TV-20260614-V4.0.apk](https://gh.zwy.one/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址6）：[BILI-TV-20260614-V4.0.apk](https://https://cors.isteed.cc/github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址7）：[BILI-TV-20260614-V4.0.apk](https://ghp.keleyaa.com/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址8）：[BILI-TV-20260614-V4.0.apk](https://gh.h233.eu.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
-* V4.0 下载（镜像地址9）：[BILI-TV-20260614-V4.0.apk](https://edgeone.gh-proxy.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260614-V4.0/BILI-TV-20260614-V4.0.apk)
+* 发布页：[`BILI-TV-20260616-V4.1`](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260616-V4.1)
+* V4.1 下载（原始）：[BILI-TV-20260616-V4.1.apk](https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址1）：[BILI-TV-20260616-V4.1.apk](https://gh.idayer.com/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址2）：[BILI-TV-20260616-V4.1.apk](https://ghfile.geekertao.top/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址3）：[BILI-TV-20260616-V4.1.apk](https://gh.xxooo.cf/https://github.com/k1moj1s/BILI/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址4）：[BILI-TV-20260616-V4.1.apk](https://xget.xi-xu.me/gh/k1moj1s/BILI/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址5）：[BILI-TV-20260616-V4.1.apk](https://gh.zwy.one/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址6）：[BILI-TV-20260616-V4.1.apk](https://https://cors.isteed.cc/github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址7）：[BILI-TV-20260616-V4.1.apk](https://ghp.keleyaa.com/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址8）：[BILI-TV-20260616-V4.1.apk](https://gh.h233.eu.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
+* V4.1 下载（镜像地址9）：[BILI-TV-20260616-V4.1.apk](https://edgeone.gh-proxy.org/https://github.com/k1moj1s/BILI-TV/releases/download/BILI-TV-20260616-V4.1/BILI-TV-20260616-V4.1.apk)
 
-* sha256:e0a14a3c1bff46fe8435a71cfcdba6781787cac29602213737959ff24c782c83
+* sha256:f5db670adac64c237ab00a7eae2bc2fa06c8ba975df012d2742829c8c6961b54
 
 ---
 
